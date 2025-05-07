@@ -10,7 +10,7 @@ A full-stack web app that generates podcast scripts and converts them into reali
 ## 🚀 Live Demo
 
 
-🎥 [Demo Video]([https://youtu.be/your-video-id](https://drive.google.com/file/d/1FhMf553XpOIhGqV5JZh-Crqf0AJNIYYS/view))
+[Demo Video](https://drive.google.com/file/d/1FhMf553XpOIhGqV5JZh-Crqf0AJNIYYS/view)
 
 ---
 
@@ -57,4 +57,5 @@ ai-podcast-generator/
 │   └── index.tsx
 
 
-This project was built as part of a technical assignment for Vomychat via Internshala. The goal was to build a production-ready AI-driven solution — and I chose to create a podcast generator using modern generative tools.
+This project was built as part of a technical assignment for Vomychat via Internshala.
+ The goal was to build a production-ready AI-driven solution — and I chose to create a podcast generator using modern generative tools.
